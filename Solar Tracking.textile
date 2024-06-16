@@ -1,4 +1,4 @@
-#This is a solar Tracking system which can bce used in homes for appliances that use too much electricity and can give you high cost bills.
+This is a solar Tracking system which can bce used in homes for appliances that use too much electricity and can give you high cost bills.
 The Following components are used
   1) Arduino uno
   2) Breadboard
