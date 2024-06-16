@@ -1,2 +1,2 @@
-# Solar-Tracking-car
-This is a way of using less fuels for driving cars.
+# Solar-Tracking-System
+This is a way of using less electricity in homes.
